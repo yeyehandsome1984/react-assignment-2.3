@@ -58,3 +58,13 @@ body {
   margin-right: -20px;
   z-index: 1;
 }
+
+.reset {
+  margin-top: 20px;
+  width: 80px;
+  height:30px;
+  z-index: 1;
+  font-size: 1rem;
+  font-weight: 300;
+
+}
